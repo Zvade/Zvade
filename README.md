@@ -42,9 +42,9 @@ Veritabanı mimarilerinden (Redis, MariaDB, SQL) sistem optimizasyonuna kadar ge
 ### 🔗 Get In Touch
 
 <p align="center">
-<a href="https://linkedin.com/in/KULLANICI_ADIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:EPOSTA_ADRESIN"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://discord.com/users/DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://linkedin.com/in/zvade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ardilfurst0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://discord.com/users/_ardil_"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A97CF8&height=100&section=footer" width="100%"/>
