@@ -1,53 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Merhaba,%20Ben%20Ardıl%20!&fontSize=50&fontAlignY=38&desc=Yazılım%20Geliştirici&descAlignY=55&descAlign=50&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=ARDIL&fontSize=80&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer&descAlignY=60&descAlign=50&reversal=false&bgImg=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3R4bmV4bmV4bmV4bmV4bmV4bmV4bmV4bmV4bmV4bmV4bmV4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="100%"/>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=💻+Yazılım+Geliştirici;🚀+Açık+Kaynak+Tutkunu;☕+Kahveyi+Koda+Dönüştürüyorum;🌍+Sürekli+Öğreniyorum" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A97CF8&center=true&vCenter=true&width=600&lines=Backend+Development;Database+Architecture;Linux+Systems+Administrator" alt="Typing SVG" />
+</a>
+
+<hr />
+
+### 🛠 Tech Stack
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,idea,python,js,mysql,mongodb,redis,ubuntu&theme=dark" />
 </a>
 
 <br/>
 
-### Hakkımda 👨‍💻
-
-> "Kod yazmak sadece bir iş değil, aynı zamanda bir sanattır."
-
-* 🔭 Şu anda **[Üzerinde çalıştığın proje]** üzerinde çalışıyorum.
-* 🌱 Şu sıralar **[Öğrenmekte olduğun yeni bir teknoloji/konu]** öğreniyorum.
-* 👯 **Açık kaynak projelerde** işbirliği yapmaya hazırım.
-* 💬 Bana **Java, Python ve Veritabanı Yönetimi** hakkında soru sorabilirsin.
-* 📫 Bana ulaşmak için: **[E-posta adresin veya LinkedIn linkin]**
-
-<br/>
-
-### 🛠️ Teknoloji Yığınım & Yeteneklerim
-
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,sqlite,mariadb,redis,mysql,ubuntu,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres&theme=dark" />
 </a>
 
 <br/><br/>
 
-### 📊 GitHub İstatistiklerim
+### 🌌 System Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zvade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub İstatistikleri" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zvade&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zvade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="En Çok Kullanılan Diller" />
-</p>
-
-<br/>
-
-### 🔗 Beni Buralarda Bulabilirsin
-
-<a href="https://linkedin.com/in/[LinkedInKullanıcıAdın]"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-<a href="https://twitter.com/[TwitterKullanıcıAdın]"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank" /></a>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Zvade&show_icons=true&theme=transparent&title_color=A97CF8&icon_color=A97CF8&text_color=ffffff&bg_color=0D1117&hide_border=true" width="400px" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zvade&layout=compact&theme=transparent&title_color=A97CF8&text_color=ffffff&bg_color=0D1117&hide_border=true" width="300px" />
+    </td>
+  </tr>
+</table>
 
 <br/>
-<hr>
-<p align="center">Ziyaret ettiğin için teşekkürler! ⭐</p>
+
+### 🛰 Connectivity
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A97CF8&height=100&section=footer" width="100%"/>
 
 </div>
